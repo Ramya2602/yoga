@@ -1,0 +1,79 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+ }
+ body{
+     
+    background-image: url(yoga-header.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+ }
+ .icons{
+    color:  white;
+    margin-top: 55px;
+ 
+    
+}
+  
+ .content{
+    color: white;
+   margin-left: 20px; 
+   margin-top: 50px;
+     
+    font-size: 20px;
+ }
+ .new{
+   display: flex;
+   padding:10px;
+ }
+ .images{
+   margin-left: 400px;
+   margin-top: 20px;
+ }
+ .icons-phone{
+   color: white;
+    margin-left: 300px;
+    padding:10px;
+    margin-top:50px
+ }
+ .number{
+   color: white;
+   margin-top: 58px;
+   font-size: 20px;
+    
+ }
+ hr{
+   width:80%;
+   margin: auto;
+ }
+ .main-cont{
+   font-size: 50px;
+   
+   color:white;
+   margin-top:  150px;
+   text-align: center;
+ }
+ .sub-cont{
+   color:rgb(251, 240, 240);
+   text-align: center;
+   padding: 10px;
+   margin-top: 20px;
+   font-size:  15px;
+ }
+ .button{
+   width:170px;
+   background-color:deeppink;
+   text-align: center;
+   border:none;
+   padding:10px;
+   margin-top: 50px;
+   color:white;
+   height:40px;
+   margin-left: 600px;
+   font-size: 18px;
+ }
+  
+  
+  
